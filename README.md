@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nors230
-- 👀 I’m interested in software development and machine learning.
+- 👀 I’m interested in software development and machine learning
 - 🌱 I’m currently learning Cloud Computing and Data Pipelines
 - 💞️ I’m looking to collaborate on Data Engineering and Data Science collaborations
 - 📫 How to reach me - email nnhajjar@gmail.com
